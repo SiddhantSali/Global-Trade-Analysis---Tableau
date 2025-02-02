@@ -24,9 +24,9 @@ The cleaned dataset is available in Excel format (Cleaned_Data.xlsx).
 
 ✅ Data-Driven Decision Making – Identify growth opportunities & market trends.
 
-How to Use
+* How to Use
 
-* Download Cleaned_Data.xlsx.
+Download Cleaned_Data.xlsx.
 
 Open the Tableau workbook and connect to the dataset.
 
