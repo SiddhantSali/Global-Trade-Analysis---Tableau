@@ -38,14 +38,14 @@ Explore the dashboard using filters for customized insights.
 
 # Conclusion
 
-*From 1988 to 2016, the USA has been the largest exporter, importer, and re-exporter of commodities. Whereas Canada has been the largest re-importer of commodities. 
-*The USA has never re-imported commodities throughout these years. 
-*Australia hasn't re-exported commodities since the year 2000.
-*Canada began re-exporting commodities  from the year 2000.
-*In the year 2016, Canada was the largest re-exporter of commodities.
-*Canada dominates the re-import trade business.
-*Top categories were identified for each country.
-*Trade Balance was calculated and analysed. It was observed that all the countries had Trade Surplus from 1988 to 2016. The countries were ranked based on this observation. It is believed that a Trade Surplus country isn’t suitable for import business.
-*Top Commodities were identified based on their quantity traded via export, import, re-export, and re-import.
-*After identifying the potential commodities, we can observe it’s quantity and unit price over the past years. It was observed that unit prices differed for each country. Further, we can use forecasting technique to get an estimate of the unit prices for the years ahead.
+* From 1988 to 2016, the USA has been the largest exporter, importer, and re-exporter of commodities. Whereas Canada has been the largest re-importer of commodities. 
+* The USA has never re-imported commodities throughout these years. 
+* Australia hasn't re-exported commodities since the year 2000.
+* Canada began re-exporting commodities  from the year 2000.
+* In the year 2016, Canada was the largest re-exporter of commodities.
+* Canada dominates the re-import trade business.
+* Top categories were identified for each country.
+* Trade Balance was calculated and analysed. It was observed that all the countries had Trade Surplus from 1988 to 2016. The countries were ranked based on this observation. It is believed that a Trade Surplus country isn’t suitable for import business.
+* Top Commodities were identified based on their quantity traded via export, import, re-export, and re-import.
+* After identifying the potential commodities, we can observe it’s quantity and unit price over the past years. It was observed that unit prices differed for each country. Further, we can use forecasting technique to get an estimate of the unit prices for the years ahead.
 
