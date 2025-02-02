@@ -31,3 +31,9 @@ How to Use
 Open the Tableau workbook and connect to the dataset.
 
 Explore the dashboard using filters for customized insights.
+
+![image](https://github.com/user-attachments/assets/c9682ed0-9871-4b66-b605-111c1ad23810)
+
+
+![image](https://github.com/user-attachments/assets/784c0b38-f8bb-428e-a8c4-92286963ef54)
+
